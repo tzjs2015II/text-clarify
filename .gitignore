@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 *.txt
 /书籍
+*.db
+*.db-shm
